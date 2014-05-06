@@ -1,4 +1,4 @@
 bvp
 ===
 
-Blade Video Player by Blade Software, LLC
+Blade Video Player by Blade Video Software, LLC
